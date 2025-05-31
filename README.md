@@ -16,6 +16,21 @@ A modular, real-time dashboard for visualizing and logging environmental data fr
 
 ---
 
+### 🛰️ [GPS Dashboard with SparkFun NEO-M9N](https://github.com/gr4ytips/Sparkfun_Qwiic/tree/main/Sparkfun_Qwiic_GPS_NEO-M9N_SMA_GPS-17285)
+A Python-based desktop application designed to interface with the SparkFun GPS Breakout – NEO-M9N (SMA, Qwiic), offering:
+- Real-time GPS tracking with driving dashboard
+- Geofencing, data logging, and trip analytics
+- GPS trends and satellite skyplot visualization
+- Offline trip simulation and map view
+
+📖 Read the full article:  
+[**Real-Time GPS Dashboard with Python and SparkFun NEO-M9N**](https://www.graytips.com/sparkfun-qwiic-gps/gps-dashboard-real-time-tracking-python/)
+
+📥 Download the project:  
+[https://github.com/gr4ytips/Sparkfun_Qwiic.git](https://github.com/gr4ytips/Sparkfun_Qwiic.git)
+
+---
+
 ## 🛠️ More Projects Coming Soon...
 
 Stay tuned for additional tools, sensor integrations, and Raspberry Pi utilities.
