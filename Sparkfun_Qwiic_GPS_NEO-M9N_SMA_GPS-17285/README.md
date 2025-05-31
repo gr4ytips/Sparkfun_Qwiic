@@ -38,8 +38,8 @@ A versatile Python desktop app for **real-time GPS data visualization**, **loggi
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/your-username/gps-dashboard.git
-cd gps-dashboard
+git clone https://github.com/gr4ytips/Sparkfun_Qwiic.git
+cd Sparkfun_Qwiic_GPS_NEO-M9N_SMA_GPS-17285
 python -m venv venv
 source venv/bin/activate      # On Windows use: .\venv\Scripts\activate
 pip install -r requirements.txt
