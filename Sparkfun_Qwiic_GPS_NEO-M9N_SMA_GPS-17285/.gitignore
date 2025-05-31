@@ -43,3 +43,5 @@ eggs/
 # OS-specific files
 .DS_Store
 Thumbs.db
+
+settings.json
