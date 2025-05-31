@@ -1,0 +1,9 @@
+ttkbootstrap
+matplotlib
+pygame
+adafruit-circuitpython-shtc3
+sparkfun-qwiic
+sparkfun-qwiic-bme280
+sparkfun-qwiic-sgp40
+sparkfun-qwiic-proximity
+adafruit-blinka # Required for 'board' module to work on non-CircuitPython boards
