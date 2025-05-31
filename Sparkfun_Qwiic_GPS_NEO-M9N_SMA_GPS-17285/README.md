@@ -97,7 +97,7 @@ Settings are stored in `settings.json`. Editable via app or manually:
 
 ## 📸 Screenshots *(Replace placeholders)*
 
-- ![Dashboard](https://via.placeholder.com/600x300?text=Driving+Dashboard)
+- ![Dashboard](https://github.com/gr4ytips/Sparkfun_Qwiic/blob/main/Sparkfun_Qwiic_GPS_NEO-M9N_SMA_GPS-17285/images/GPS%20Dashboard.png)
 - ![Map View](https://via.placeholder.com/600x300?text=Live+Map)
 - ![Settings](https://via.placeholder.com/600x300?text=Settings+Tab)
 - ![Trip Analysis](https://via.placeholder.com/600x300?text=Trip+Analytics)
