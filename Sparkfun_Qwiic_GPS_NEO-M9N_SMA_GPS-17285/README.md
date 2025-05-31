@@ -1,6 +1,6 @@
 # 🛰️ GPS Dashboard Application
 
-A versatile Python desktop app for **real-time GPS data visualization**, **logging**, **geofencing**, and **trip analysis**. Built with `tkinter`, `ttkbootstrap`, and powered by `Matplotlib`, `Folium`, and `micropython-ublox`.
+A versatile Python desktop app for **real-time GPS data visualization**, **logging**, **geofencing**, and **trip analysis**. Built with `tkinter`, `ttkbootstrap`, and powered by `Matplotlib`, `Folium`, and `sparkfun-ublox-gps`.
 
 ---
 
@@ -26,7 +26,7 @@ A versatile Python desktop app for **real-time GPS data visualization**, **loggi
 - Python ≥ 3.8
 - pip
 - Libraries:  
-  `ttkbootstrap`, `matplotlib`, `pyserial`, `folium`, `tkhtmlview`, `numpy`, `micropython-ublox`
+  `ttkbootstrap`, `matplotlib`, `pyserial`, `folium`, `tkhtmlview`, `numpy`, `sparkfun-ublox-gps`
 
 ### Hardware
 - U-Blox GPS module (e.g. Sparkfun Qwiic GPS NEO-M9N)
@@ -48,7 +48,7 @@ pip install -r requirements.txt
 If no `requirements.txt`:
 
 ```bash
-pip install ttkbootstrap matplotlib pyserial folium tkhtmlview numpy micropython-ublox
+pip install ttkbootstrap matplotlib pyserial folium tkhtmlview numpy sparkfun-ublox-gps
 ```
 
 ---
