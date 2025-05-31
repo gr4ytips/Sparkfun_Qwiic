@@ -1,3 +1,4 @@
+
 # 🚀 Qwiic Sensor Dashboard
 
 > Developed by **Gemini** with feedback from **Gra4ytips**  
@@ -29,7 +30,7 @@ The **Qwiic Sensor Dashboard** is a Python-based GUI application to monitor, log
 
 ## 🧰 Hardware Requirements
 
-- 🍓 Raspberry Pi.
+- 🍓 Raspberry Pi
 - 🧩 SparkFun Qwiic sensors: BME280, SGP40, Proximity & SHTC3
 - 🔌 Qwiic HAT or adapter
 - 🖼️ Raspberry Pi Monitor (≥ 800x480)
@@ -73,7 +74,7 @@ sparkfun-qwiic-sgp40 sparkfun-qwiic-proximity adafruit-circuitpython-shtc3 adafr
 sudo raspi-config  # Interface Options → I2C → Enable
 ```
 
-4. **(Optional) Add Sound Files**
+4. **(Optional) Add Sound Files**  
 Place `alert.wav`, `up.wav`, and `down.wav` in the project folder.
 
 ---
@@ -113,7 +114,20 @@ python main.py
 
 ## 🖼️ UI Preview
 
-> ![UI Screenshot Placeholder](https://via.placeholder.com/600x300?text=Qwiic+Dashboard+UI+Screenshot)
+### 🧩 Multi-Sensor Dashboard
+![Dashboard](https://github.com/gr4ytips/Sparkfun_Qwiic/raw/main/Qwiic_Sensors/images/mult-sensor-dashboard.png)
+
+### 🌡️ BME280 Plot
+![BME280](https://github.com/gr4ytips/Sparkfun_Qwiic/raw/main/Qwiic_Sensors/images/plot-bme280.png)
+
+### 👁️ Proximity Sensor Plot
+![Proximity](https://github.com/gr4ytips/Sparkfun_Qwiic/raw/main/Qwiic_Sensors/images/plot-proximity.png)
+
+### 💨 SGP40 Plot
+![SGP40](https://github.com/gr4ytips/Sparkfun_Qwiic/raw/main/Qwiic_Sensors/images/plot-sgp40.png)
+
+### 🧴 SHTC3 Plot
+![SHTC3](https://github.com/gr4ytips/Sparkfun_Qwiic/raw/main/Qwiic_Sensors/images/plot-shtc3.png)
 
 ---
 
@@ -123,6 +137,12 @@ python main.py
 - 🚨 Custom sensor alert thresholds
 - ⬇️ Data export button
 - 🔍 Enhanced plot interactivity (zoom, pan)
+
+---
+
+## 📥 Download
+
+👉 [Download the SparkFun Qwiic Sensor Dashboard on GitHub](https://github.com/gr4ytips/Sparkfun_Qwiic.git)
 
 ---
 
