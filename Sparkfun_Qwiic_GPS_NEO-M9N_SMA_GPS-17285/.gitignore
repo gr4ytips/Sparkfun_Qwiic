@@ -44,4 +44,8 @@ eggs/
 .DS_Store
 Thumbs.db
 
+<<<<<<< HEAD
 settings.json
+=======
+settings.json
+>>>>>>> 318a4c2a5770e9ff338c71042df9b1fb43a98830
