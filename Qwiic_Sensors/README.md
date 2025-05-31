@@ -8,7 +8,7 @@
 
 ## 📖 Overview
 
-The **Qwiic Sensor Dashboard** is a Python-based GUI application to monitor, log, and visualize data from various **SparkFun Qwiic** and **Adafruit** sensors.  
+The **Qwiic Sensor Dashboard** is a Python-based GUI application to monitor, log, and visualize data from various **SparkFun Qwiic** sensors.  
 ✨ Built with `tkinter`, `ttkbootstrap`, and `matplotlib`, it offers a modern, responsive UI optimized for Raspberry Pi screens.
 
 ---
@@ -29,9 +29,8 @@ The **Qwiic Sensor Dashboard** is a Python-based GUI application to monitor, log
 
 ## 🧰 Hardware Requirements
 
-- 🍓 Raspberry Pi or compatible SBC
-- 🧩 SparkFun Qwiic sensors: BME280, SGP40, Proximity
-- 🌡️ Adafruit SHTC3 (I2C temp/humidity)
+- 🍓 Raspberry Pi.
+- 🧩 SparkFun Qwiic sensors: BME280, SGP40, Proximity & SHTC3
 - 🔌 Qwiic HAT or adapter
 - 🖼️ Raspberry Pi Monitor (≥ 800x480)
 
@@ -57,8 +56,8 @@ Adafruit-Blinka
 
 1. **Clone the repo**
 ```bash
-git clone https://github.com/your-username/qwiic-sensor-dashboard.git
-cd qwiic-sensor-dashboard
+git clone https://github.com/gr4ytips/Sparkfun_Qwiic.git
+cd Sparkfun_Qwiic/Qwiic_Sensors
 ```
 
 2. **Install dependencies**
@@ -82,7 +81,7 @@ Place `alert.wav`, `up.wav`, and `down.wav` in the project folder.
 ## ▶️ Usage
 
 ```bash
-python qwiic-sensor-dashboard.py
+python main.py
 ```
 
 🕐 App initializes sensors and loads the dashboard.
