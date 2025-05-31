@@ -24,7 +24,7 @@ A Python-based desktop application designed to interface with the SparkFun GPS B
 - Offline trip simulation and map view
 
 📖 Read the full article:  
-[**Real-Time GPS Dashboard with Python and SparkFun NEO-M9N**](https://www.graytips.com/sparkfun-qwiic-gps/gps-dashboard-real-time-tracking-python/)
+[**Real-Time GPS Dashboard with Python and SparkFun NEO-M9N**](https://www.graytips.com/gps/building-a-real-time-gps-dashboard-with-python-and-sparkfun-neo-m9n-gps-17285/)
 
 📥 Download the project:  
 [https://github.com/gr4ytips/Sparkfun_Qwiic.git](https://github.com/gr4ytips/Sparkfun_Qwiic.git)
