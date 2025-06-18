@@ -68,7 +68,7 @@ To run this application with physical sensors, you will need the following hardw
    ```
 4. Clone the Repository:
    ```bash
-   git clone <your-repository-url> sensor_dashboard
+   git clone https://github.com/gr4ytips/Sparkfun_Qwiic.git sensor_dashboard
    cd sensor_dashboard
    ```
 5. (Optional) Add sound files: `alert.wav`, `up.wav`, `down.wav`
